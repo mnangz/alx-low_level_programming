@@ -8,7 +8,7 @@
 int main(void)
 {
 	
-	int str[] = {_, p, u, t, c, h, a, r};
+	int str[] = "_putchar";
 	int count, strLength;
 
 	strLength = sizeof(str) / sizeof(int);
