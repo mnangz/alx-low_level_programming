@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- * _putchar - prints _putchar as a message
+ * main - prints _putchar as a message
  *
  * Return: On success 0.
  */
 int main(void)
 {
-	
-	int str[] = {95, 102, 117, 116, 99, 104, 97, 114};
+	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
 	int count, strLength;
 
 	strLength = sizeof(str) / sizeof(int);
@@ -17,5 +16,5 @@ int main(void)
 		_putchar(str[count]);
 	}
 	_putchar('\n');
-	return (0);	
+	return (0);
 }
