@@ -8,7 +8,7 @@
 int main(void)
 {
 	
-	int str[] = "_putchar";
+	int str[] = {95, 102, 117, 116, 99, 104, 97, 114};
 	int count, strLength;
 
 	strLength = sizeof(str) / sizeof(int);
