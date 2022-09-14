@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints the add of the even-valued fibonacci numbers that are less than 4000000.
+ * main - Prints the add of the even-valued fibonacci
+ * numbers that are less than 4000000.
  *
  * Return: Always 0.
  */
